@@ -1,45 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="898d8365-2e2f-4608-ac93-34904ece9bf9" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode-leeboyce.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Life.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Life/LinkedList/LinkedListCycleII$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Life/LinkedList/LinkedListCycleII.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Life/LinkedList/ReverseLinkedList$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Life/LinkedList/ReverseLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Life/LinkedList/SwapNodesinPairs$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Life/LinkedList/SwapNodesinPairs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Life/LinkedList/Test$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Life/LinkedList/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Life/LinkedList/Test1$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Life/LinkedList/Test1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Life/LinkedList/Test2$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Life/LinkedList/Test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Life/LinkedList/sortList$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Life/LinkedList/sortList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Life/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Life/dynamic/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Life/dynamic/ABean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Life/dynamic/B.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Life/dynamic/BBean.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Life/dynamic/C.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Life/dynamic/UniquePaths.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Life/dynamic/main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Life/tanxin/tiaoyueyouxi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Life/tanxin/youshixipai.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Life/tree/BinaryTreeLevelOrderTraversal$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Life/tree/BinaryTreeLevelOrderTraversal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Life/tree/LowestCommonAncestorOfABinaryTree$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Life/tree/LowestCommonAncestorOfABinaryTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Life/tree/SymmetricTree$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Life/tree/SymmetricTree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Life/tree/TreeToLinkedList$TreeNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Life/tree/TreeToLinkedList.class" beforeDir="false" />
-    </list>
+    <list default="true" id="898d8365-2e2f-4608-ac93-34904ece9bf9" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,26 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="leetcode-leeboyce.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/leetcode-leeboyce.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/dynamic/main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -79,6 +22,13 @@
         <entry key="$PROJECT_DIR$/../spring-framework-5.0.2.RELEASE" value="PREVIEW" />
         <entry key="$PROJECT_DIR$/../spring-framework-master" value="PREVIEW" />
       </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/tanxin/tiaoyueyouxi.java" />
+      </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -109,17 +59,6 @@
             <path>
               <item name="leetcode-leeboyce" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode-leeboyce" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode-leeboyce" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode-leeboyce" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode-leeboyce" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode-leeboyce" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="dynamic" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -230,18 +169,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584977949882</updated>
-      <workItem from="1584977954383" duration="607000" />
+      <workItem from="1584977954383" duration="996000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="607000" />
+    <option name="totallyTimeSpent" value="996000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1920" y="0" width="1920" height="1080" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="right" id="Codota" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
@@ -249,13 +189,13 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.16904277" />
       <window_info anchor="bottom" id="Version Control" weight="0.3299389" />
       <window_info anchor="right" id="leetcode" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.1670061" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.29531568" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
       <window_info anchor="right" id="Database" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -307,10 +247,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test.java">
+    <entry file="file://$PROJECT_DIR$/src/dynamic/main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="238">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -321,10 +261,45 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/dynamic/main.java">
+    <entry file="file://$PROJECT_DIR$/src/tanxin/tiaoyueyouxi.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        <state relative-caret-position="493">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tanxin/youshixipai.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tree/LowestCommonAncestorOfABinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-421">
+          <caret line="35" column="13" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tree/TreeToLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="669">
+          <caret line="44" column="5" lean-forward="true" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/tree/BinaryTreeLevelOrderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="30" column="13" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
         </state>
       </provider>
     </entry>
