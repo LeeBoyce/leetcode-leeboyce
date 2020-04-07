@@ -8,7 +8,7 @@
 
 例如，给定如下二叉树:  root = [3,5,1,6,2,0,8,null,null,7,4]
 
-<img src="https://github.com/LeeBoyce/leetcode-leeboyce/tree/master/src/pic/leetcode-68-二叉树的最近公共祖先.png" alt="leetcode-68-二叉树的最近公共祖先" style="zoom:50%;" />
+<img src="../pic/leetcode-68-二叉树的最近公共祖先.png" alt="leetcode-68-二叉树的最近公共祖先" style="zoom:50%;" />
 
  
 
